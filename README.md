@@ -6,6 +6,18 @@ The DFRWS 2018 challenge is about Internet of Things (IoT), defined generally to
 
 This challenge seeks to advance the state-of-the-art in IoT forensics by focusing the community’s attention on this emerging domain.
 
+
+SUBMISSIONS
+
+Submission deadline: Mar. 20, 2019
+
+Please see complete rules at http://dfrws.org/dfrws-forensic-challenge
+
+Participants must send an email to challenge@dfrws.org with the subject line “Solution submission”.
+
+The actual solution (code and relevant documentation) can be submitted via email tarball (5MB max), posted on a public VCS, or posted for HTTP/FTP download.
+
+
 CHALLENGE ORGANIZERS
 
 Francesco Servida
