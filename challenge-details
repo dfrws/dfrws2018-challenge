@@ -9,7 +9,7 @@ The owner the illegal drug lab, Jessie Pinkman, is nowhere to be found. Police i
 
 Within the drug lab, depicted in Figure 1 below, the digital forensic specialist observes some IoT devices, including an alarm system (iSmartAlarm), three cameras (QBee Camera, Nest Camera and Arlo Pro) as well as a smoke detector (Nest Protect). An Amazon Echo and a WinkHub are also present.
 
-Figure: Diagram of the Illegal Drug Laboratory
+Figure of Diagram of the Illegal Drug Laboratory: https://github.com/dfrws/dfrws2018-challenge/blob/master/DFRWS2018-IoT-ForensicChallengeDiagram.png
 
 The digital forensic specialist preserves the diagnostic logs from the iSmartAlarm base station, and acquires a copy of the filesystem of the WinkHub. He also collects the iSmartAlarm and Arlo base stations to perform an in-depth analysis at the forensic laboratory.
 
