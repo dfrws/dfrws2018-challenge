@@ -6,9 +6,13 @@ The DFRWS 2018 challenge is about Internet of Things (IoT), defined generally to
 
 This challenge seeks to advance the state-of-the-art in IoT forensics by focusing the community’s attention on this emerging domain.
 
+See challenge-details for scenario description, questions, and more complete information.
+
+
 DATASET DOWNLOAD LINKS:
 
  GDrive: https://drive.google.com/drive/folders/17szABuOp3wEI9FAWsx5Q4ThAtjPecm4Q?usp=sharing
+
 
 SUBMISSIONS
 
