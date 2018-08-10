@@ -40,27 +40,56 @@ This DFRWS IoT Forensic Challenge aspires to motivate new approaches to forensic
 
 
 CHALLENGE DATA
+
+Available for download: 
+  GDrive: https://drive.google.com/drive/folders/17szABuOp3wEI9FAWsx5Q4ThAtjPecm4Q?usp=sharing
+
 Responders acquired the following data (Time Zone: UTC+2):
 
 Physical extraction of Jessie Pinkman’s Samsung phone
- + phone
+  File/Folder: 
+  SHA256: 
+ 
 iSmartAlarm – Diagnostic logs
- + ismartalarm/diagnostic
+  File/Folder: ismartalarm/diagnostics/2018-05-17T10_54_28/server_stream
+  SHA256: 8033ba6d37ad7f8ba22587ae560c04dba703962ed16ede8c36a55c9553913736
+
 iSmartAlarm – Memory images: 0x0000’0000 (ismart_00.img), 0x8000’0000
 (ismart_80.img)
- + ismartalarm/dump
+  File/Folder, SHA256: 
+    dump/ismart_00.cap, eed19bbaded7a22101925dd2299572d74be949e8d7dfea5068048a05049bbdac
+    dump/ismart_00.img, b175f98ddb8c79e5a1e7db84eeaa691991939065ae17bad84cdbd915f65d9a10
+    dump/ismart_80.cap, 23d70d8194290ab57329f557a50bfeab0d7f12b341f7f348d1ab3fdc795c1991
+    dump/ismart_80.img, b175f98ddb8c79e5a1e7db84eeaa691991939065ae17bad84cdbd915f65d9a10
+    dump/_ismart_80.img.extracted/_ismart_80.img.extracted/300000, e75b5f3d1c9a221edfd806c408659110bf5cca0705cc6f328f92eea6174c529f
+    dump/_ismart_80.img.extracted/300000.7z, 8e40640aa44bb9361acafeae268cc040f939387fae43a0e5c394c7a4594a50c6
+    dump/_ismart_80.img.extracted/_300000.extracted/440000, f13fb5ebe65c9df295c66e789141bdcd2f20e9669954c85bf7321c348afdd8e8
+    dump/_ismart_80.img.extracted/_300000.extracted/440000.7z, 686c87a506bc25650674071df881d077ccfe0ad08858c31ccbe307ad255b302e 
+    dump/_ismart_80.img.extracted/_300000.extracted/_440000.extracted/ (extended)
+
 Arlo – Memory image
- + arlo/dfrws_arlo.img
+  File/Folder: arlo/dfrws_arlo.img
+  SHA256: 3b957a90a57e5e4485aa78d79c9a04270a2ae93f503165c2a0204de918d7ac70
+
 Arlo – NVRAM settings
- + arlo/nvram.log
+  File/Folder: arlo/nvram.log
+  SHA256: f5d680d354a261576dc8601047899b5173dbbad374a868a20b97fbd963dca798
+ 
 Arlo – NAND: TAR archive of the folder /tmp/media/nand
- + arlo/arlo_nand.tar.gz
+  File/Folder: arlo/arlo_nand.tar.gz
+  SHA256: 857455859086cd6face6115e72cb1c63d2befe11db92beec52d1f70618c5e421
+ 
 WinkHub – Filesystem TAR archive
- + wink/wink.tar.gz
+  File/Folder: wink/wink.tar.gz
+  SHA256: 083e7428dc1d0ca335bbcfc11c6263720ab8145ffc637954a7733afc7b23e8c6
+
 Amazon Echo – Extraction of cloud data obtained via CIFT
- + echo/
+  File/Folder: echo/
+  SHA256: (extended)
+ 
 Network capture
- + network/dfrws_police.pcap
+  File/Folder: network/dfrws_police.pcap
+  SHA256: 1837ee390e060079fab1e17cafff88a1837610ef951153ddcb7cd85ad478228e
 
 
 RULES
