@@ -8,8 +8,6 @@ This challenge seeks to advance the state-of-the-art in IoT forensics by focusin
 
 See challenge-details for scenario description, questions, and more complete information.
 
-# challenge-details
-
 DATASET DOWNLOAD LINKS:
 
  GDrive: https://drive.google.com/drive/folders/17szABuOp3wEI9FAWsx5Q4ThAtjPecm4Q?usp=sharing
