@@ -57,8 +57,8 @@ iSmartAlarm – Diagnostic logs
 iSmartAlarm – Memory images: 0x0000’0000 (ismart_00.img), 0x8000’0000
 (ismart_80.img)
   File/Folder, SHA256: 
-    dump/ismart_00.cap, eed19bbaded7a22101925dd2299572d74be949e8d7dfea5068048a05049bbdac
-    dump/ismart_80.cap, 23d70d8194290ab57329f557a50bfeab0d7f12b341f7f348d1ab3fdc795c1991
+    dump/ismart_00.img, b175f98ddb8c79e5a1e7db84eeaa691991939065ae17bad84cdbd915f65d9a10
+    dump/ismart_80.img, b175f98ddb8c79e5a1e7db84eeaa691991939065ae17bad84cdbd915f65d9a10
 
 Arlo – Memory image
   File/Folder: arlo/dfrws_arlo.img
