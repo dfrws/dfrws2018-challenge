@@ -33,4 +33,4 @@ Eoghan Casey
 
 ACKNOWLEDGEMENT
 
-The DFRWS would like to thank SecuLabs (https://www.seculabs.ch//), especially Thibault Soubiran, for collaborating on the physical analysis and vulnerability assessment of the devices used in this forensic challenge.
+The DFRWS would like to thank SecuLabs (https://www.seculabs.ch/), especially Thibault Soubiran, for collaborating on the physical analysis and vulnerability assessment of the devices used in this forensic challenge.
