@@ -1,0 +1,33 @@
+
+/database_default/db_backup/zigbee-ota-images, 4 device ota's listed:
+ETI_Downlight-v12-GA
+Tripper_0X18
+zhaOutlet_smartOutlet_12_18_2014_0x01020007
+zhaSwitch_smartSwith_1.2.1.16
+
+/var/log/all.log:
+flex-dvt daemon.info udhcpc[xxxx]: Lease of 10.20.30.22 obtained, lease time 600
+
+/etc/hostname:
+flex-dvt
+
+/etc/resolve.conf:
+arch esc.iot # wlan0
+nameserver 130.223.8.20 # wlan0
+nameserver 130.223.4.5 # wlan0
+
+/var/log/dbus/machine-id:
+cc07c7d8c3a9da72ace532f30000000c
+
+/database/error.log:
+flex-dvt cron.err crond[1058]: time disparity of 25429731 minutes detected
+flex-dvt user.err root: Failed to start ntpd
+flex-dvt user.err root: Failed to start ntpdate
+
+/database/bd_addr:
+00:21:CC:09:B7:C9
+
+
+ntp that randy had:
+72.21.192.213 (echo going to) 
+217.147.208.1 (qb camera) 
