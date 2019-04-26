@@ -1,0 +1,6 @@
+
+- Align ACQUIRED to TIMELINE by correlating ACQUIRED src_path to TIMELINE extra value (less the "User's voice:") 
+- Then listed actual audio inside each wav file and correlated to ACQUIRED saved_path
+
+
+
